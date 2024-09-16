@@ -1,0 +1,19 @@
+name: DateTimeExtensions
+id: ari:cloud:compass:11ab7076-dcc6-4d87-985f-2a1bb24cf464:component/8a2a5123-d43d-43a3-9958-ae7ceeca7684/3165c3f5-15b5-42c3-8f2b-85d212170fb4
+description: This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/E-MOBI-EKONOMIK-MOBIL/DateTimeExtensions
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: NOUVEL EMPIRE D'HAYTI
+    type: user
+    value: null
